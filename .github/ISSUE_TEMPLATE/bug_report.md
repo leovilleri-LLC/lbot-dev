@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: The official template for a bug report in the bot/
+about: Report a bug in LBot.
 title: BUG REPORT
 labels: bug
 assignees: ''

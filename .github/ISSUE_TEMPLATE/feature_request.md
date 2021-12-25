@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea to add into the LBot project.
-title: ''
+title: FEATURE REQUEST
 labels: enhancement
 assignees: ''
 
